@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+pillow
+pinecone-client
+python-dotenv
+google-generativeai
+requests

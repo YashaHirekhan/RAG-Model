@@ -1,0 +1,147 @@
+[
+    {
+      "id": "1",
+      "tags" : "white top, leather jacket, denim jeans, woman",
+      "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721137502/CloudinaryDemo/xjhgxaw9bv8cbhjv95z9.jpg",
+      "purchase_url": "https://myntra-client.vercel.app/look/6696795eba856c3589a325ef"
+    },
+    {
+      "id": "2",
+      "tags" : "pink, floral, dress, woman, mid-length",
+      "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721137603/CloudinaryDemo/g64m9pwbabwjndlpngii.jpg",
+      "purchase_url": "https://myntra-client.vercel.app/look/669679c3ba856c3589a325f7"
+    },
+  {
+      "id": "3",
+      "tags" : "green, silk, sari, woman",
+      "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+      "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+  },
+  {
+    "id": "4",
+    "tags" : "green, silk, sari, woman",
+    "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+    "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "5",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "6",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "7",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "8",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "9",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "10",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "11",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "12",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "13",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "14",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "15",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "16",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "17",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "18",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "19",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "20",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "21",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "23",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "24",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+},
+{
+  "id": "25",
+  "tags" : "green, silk, sari, woman",
+  "image_url": "https://res.cloudinary.com/adarsh607/image/upload/v1721172090/CloudinaryDemo/qwszwhuihgelu4c0babc.jpg",
+  "purchase_url": "https://myntra-client.vercel.app/look/6697007cec15878486bc3cdd"
+}
+
+  ]
